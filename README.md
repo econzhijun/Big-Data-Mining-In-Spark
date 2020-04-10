@@ -1,6 +1,6 @@
 
 
-This repository covers fundamental techniques in the big data mininng context, including Association Rule Mining (finding frequent itemsets), Recommendation System, Social Network Analysis, Clustering, etc. The content is from USC course INF 553 Foundations and Applications of Data Mining. I built all algorithms from scratch with PySpark (version: 2.4.4) and got full scores on all these assignments. I mainly use Spark RDD (Resilient Distributed Datasets), though sometimes would also refer to Spark DataFrame. All data used in the tasks is from the Yelp public review data set [[SOURCE](https://www.yelp.com/dataset)]. 
+This repository covers fundamental techniques in the big data mininng context, including Association Rule Mining (finding frequent itemsets), Recommendation System, Social Network Analysis, Clustering, etc. The content is from USC course *INF 553 Foundations and Applications of Data Mining*. I built all algorithms from scratch with PySpark (version: 2.4.4) and got full scores on all these assignments. I mainly use Spark RDD (Resilient Distributed Datasets), though sometimes would also refer to Spark DataFrame. All data used in the tasks is from the Yelp public review data set [[SOURCE](https://www.yelp.com/dataset)]. 
 
 Below is the summary of each topic and required task.
 
