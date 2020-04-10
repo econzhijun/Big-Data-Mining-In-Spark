@@ -13,4 +13,4 @@ Below is the summary of each topic and required task.
 
 
 
-Fight on!# Big-Data-Mining-In-Spark
+Fight on!
