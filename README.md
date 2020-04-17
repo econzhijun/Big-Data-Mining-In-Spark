@@ -10,6 +10,7 @@ Below is the summary of each topic and required task.
 |  2   | Association Rule Mining | Find businesses frequently visited together. Use SON algorithm as the main framework, and apply in-memory algorithms like Apriori, PCY, MultiHash to process data in each chunk. |
 |  3   |  Recommendation System  | Use Tf-Idf to extract top topic words from review texts to construct user-vectors, business-vectors and build a Content-Based RS. Use Near-Neighbor Search to build a Collaborative Filtering RS. Try improving the system and obtain lower RMSE. |
 |  4   | Social Network Analysis | Implement Girvan-Newman algorithm to detect non-overlapping communnities in the customers' network. |
+|  5   |       Clustering        | Implement distributed K-means as in-memory clustering method, and apply it within the BFR algorithm framework. |
 
 
 
